@@ -355,7 +355,7 @@ p {
   height: 100%;
   width: 100%;
   position: relative;
-  border: 10px solid #5d0491f4;
+  border: 10px solid #0d52d3f4;
 }
 #about .col-left .about-img::after {
   content: "";
@@ -364,7 +364,7 @@ p {
   top: 19px;
   height: 98%;
   width: 98%;
-  border: 7px solid rgb(246, 6, 6);
+  border: 7px solid rgb(10, 10, 183);
   z-index: -1;
 }
 /* End About Section */
