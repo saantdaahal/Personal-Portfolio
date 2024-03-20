@@ -14,7 +14,7 @@ document.addEventListener('scroll', () => {
 		header.style.backgroundColor = 'black';
 	} else {
 		header.style.backgroundColor = 'black';
-	}
+	} 
 });
 
 menu_item.forEach((item) => {
@@ -23,3 +23,4 @@ menu_item.forEach((item) => {
 		mobile_menu.classList.toggle('active');
 	});
 });
+
